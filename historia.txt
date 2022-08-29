@@ -2,4 +2,5 @@ Hola a todos.
 este es un archivo de prueba
 para git.
 Enjoy!
-Aqui hay una línea nueva de texto plano.
+
+Esta es una línea que puede ser borrada en cualquier momento. ¿Quien sabe cuando?
